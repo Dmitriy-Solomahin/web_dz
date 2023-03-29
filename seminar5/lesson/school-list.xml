@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school-list>
+    <student>
+        <FIO>
+            <surname>Карпова</surname>
+            <name>Анна</name>
+            <patronymic>Александровна</patronymic>
+        </FIO>
+        <year>2008</year>
+        <class>8А</class>
+        <address>г. Москва, Ленинский проспект, д. 2, кв. 277</address>
+    </student>
+    <student>
+        <FIO>
+            <surname>Малышкин</surname>
+            <name>Михаил</name>
+            <patronymic>Иванович</patronymic>
+        </FIO>
+        <year>2014</year>
+        <class>2Б</class>
+        <address>г. Москва, Ленградское шоссе, д. 10, кв. 56</address>
+    </student>
+    <student>
+        <FIO>
+            <surname>Андреева</surname>
+            <name>Алла</name>
+            <patronymic>Петровна</patronymic>
+        </FIO>
+        <year>2015</year>
+        <class>1Г</class>
+        <address>г. Москва, Дмитровское шоссе, д. 107, кв. 2</address>
+    </student>
+</school-list>

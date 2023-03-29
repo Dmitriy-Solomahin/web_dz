@@ -1,0 +1,32 @@
+{
+    "price_list": [
+        {
+            "products" : "Яблоки",
+            "weight" : 1000,
+            "group" : "Fruit",
+            "price" : 150,
+            "warehouse" : 1
+        },
+        {
+            "products" : "Картошка ранняя",
+            "weight" : 5000,
+            "group" : "Vegetables",
+            "price" : 320,
+            "warehouse" : 2
+        },
+        {
+            "products" : "Бананы",
+            "weight" : 1000,
+            "group" :"Fruit",
+            "price" :99,
+            "warehouse" :1
+        },
+        {
+            "products" : "Баунти мини",
+            "weight" : 100,
+            "group" : "Confectionery",
+            "price" : 180,
+            "warehouse" : 3
+        }
+    ]
+}
